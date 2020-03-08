@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">The New York Times Headline Analyzer</string>
+    <string name="button">Press to Generate a Headline</string>
+    <string name="search_query">SEARCH QUERY</string>
+    <string name="headlines">Headlines</string>
+    <string name="your_statement">YOUR STATEMENT</string>
+    <string name="confidence">Confidence</string>
+    <string name="irony">Irony</string>
+    <string name="score_tag">Score Tag</string>
+    <string name="sentiment_analysis">SENTIMENT ANALYSIS</string>
+    <string name="enter_a_keyword_or_leave_blank">Enter a keyword or Leave Blank</string>
+    <string name="sort_by">SORT BY:</string>
+    <string name="start_date">START DATE</string>
+    <string name="newest">Newest</string>
+    <string name="oldest">Oldest</string>
+    <string name="relevance">Relevance</string>
+    <string name="none">None</string>
+</resources>
